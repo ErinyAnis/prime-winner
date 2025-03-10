@@ -18,7 +18,7 @@ const Videos = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerPolicy="strict-origin-when-cross-origin"
             allowFullScreen
-            className="w-[100%] lg:h-[230px] h-[200px] max-md:mb-1"
+            className="w-[100%] lg:h-[230px] h-[200px] max-md:mb-1.5"
           ></iframe>
           <Link href={"/"}>
             <Button className="w-full py-2 text-white hover:translate-y-0 bg-[#04562D] hover:text-[#04562D] hover:bg-[#DDB750]">
@@ -35,7 +35,7 @@ const Videos = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerPolicy="strict-origin-when-cross-origin"
             allowFullScreen
-            className="w-[100%] lg:h-[230px] h-[200px] max-md:mb-1"
+            className="w-[100%] lg:h-[230px] h-[200px] max-md:mb-1.5"
           ></iframe>
           <Link href={"/"}>
             <Button className="w-full py-2 text-white bg-[#04562D] hover:translate-y-0 hover:text-[#04562D] hover:bg-[#DDB750]">
@@ -52,7 +52,7 @@ const Videos = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerPolicy="strict-origin-when-cross-origin"
             allowFullScreen
-            className="w-[100%] lg:h-[230px] h-[200px] max-md:mb-1"
+            className="w-[100%] lg:h-[230px] h-[200px] max-md:mb-1.5"
           ></iframe>
           <Link href={"/"}>
             <Button className="w-full py-2 text-white bg-[#04562D] hover:translate-y-0 hover:text-[#04562D] hover:bg-[#DDB750]">
