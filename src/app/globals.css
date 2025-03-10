@@ -105,8 +105,8 @@ body {
   .faqs .faq .faq-question::after {
     top: -10px;
     left: -4px;
-    width: 16px;
-    height: 16px;
+    width: 18px;
+    height: 18px;
     padding-bottom: 3px;
   }
 
